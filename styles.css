@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+.header-content {
+  text-align: center;
+}
+.btn {
+  color: black;
+  background: transparent;
+  background-color: blanchedalmond;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+.cats {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.random_cats {
+  width: 40%;
+}
+img {
+  max-width: 700px;
+  height: 30rem;
+}
